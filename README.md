@@ -1,3 +1,6 @@
+#Name :Milko Shuma  Id UGR/4707/13
+#section 2
+
 # To-Do List Application
 
 A simple To-Do List application implemented in Python, using a linked list to manage tasks. This application allows users to add tasks, mark them as completed, and view the list of tasks.
